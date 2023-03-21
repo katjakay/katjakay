@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Katja Sabando</h1>
-<h3 align="left">A passionate frontend developer with graphic design background from Vienna, Austria</h3>
-
+<p>I'm a frontend developer based in Vienna, Austria, with a passion for designing and building beautiful, responsive web applications. With a background in graphic design, I bring a keen eye for aesthetics and a user-centered approach to my development work.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/katjakay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="katjakay" height="30" width="40" /></a>
