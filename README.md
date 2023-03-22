@@ -2,7 +2,7 @@
 <p>I'm a frontend developer based in Vienna, Austria, with a passion for designing and building beautiful, responsive web applications. With a background in graphic design, I bring a keen eye for aesthetics and a user-centered approach to my development work.
   
 <h3 align="left">Connect with me:</h3>
-I'm always interested in connecting with other developers and designers, so feel free to reach out to me via [email](katja.sabando@gmail.com) or on [LinkedIn]([url](https://www.linkedin.com/in/katjasabando)).
+I'm always interested in connecting with other developers and designers, so feel free to reach out to me via [email](katja.sabando@gmail.com) or on [LinkedIn]([url](https://www.linkedin.com/in/katjasabando).
 
 Thanks for checking out my profile!
 <p align="left">
