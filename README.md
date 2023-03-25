@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Katja Sabando</h1>
 
-<p>👩🏻‍💻 I'm a <b>frontend developer</b> based in Vienna, Austria, with a passion for designing and building beautiful, responsive web applications. With a background in graphic design, I bring a keen eye for aesthetics and a user-centered approach to my development work.
+<p>👩🏻‍💻 I'm a <b>frontend developer</b> based in Vienna, Austria with a background in graphic design, I bring a keen eye for aesthetics and a user-centered approach to my development work.
   
   🤖 I'm passionate about exploring the cutting-edge world of <b>artificial intelligence</b> and learning as much as I can about this exciting field.
 
