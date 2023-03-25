@@ -1,3 +1,12 @@
+<head><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Roboto+Mono&display=swap" rel="stylesheet">
+</head>
+
+h1, h2, h3, h4, h5, h6, p {
+  font-family: 'font-family: 'Roboto Mono', monospace;
+}
+
 <h1 align="left">Hi 👋, I'm Katja Sabando</h1>
 
 <p>👩🏻‍💻 I'm a <b>frontend developer</b> based in Vienna, Austria with a background in graphic design, I bring a keen eye for aesthetics and a user-centered approach to my development work.
