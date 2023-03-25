@@ -1,7 +1,10 @@
 <h1 align="left">Hi 👋, I'm Katja Sabando</h1>
-<p>I'm a frontend developer based in Vienna, Austria, with a passion for designing and building beautiful, responsive web applications. With a background in graphic design, I bring a keen eye for aesthetics and a user-centered approach to my development work.
+
+<p>👩🏻‍💻 I'm a <b>frontend developer</b> based in Vienna, Austria, with a passion for designing and building beautiful, responsive web applications. With a background in graphic design, I bring a keen eye for aesthetics and a user-centered approach to my development work.
   
-I'm passionate about exploring the cutting-edge world of artificial intelligence and learning as much as I can about this exciting field.
+  🤖 I'm passionate about exploring the cutting-edge world of <b>artificial intelligence</b> and learning as much as I can about this exciting field.
+
+💡 I'm currently developing with JavaScript, Typescricript, React and Next.js / Node.js
   
 <h3 align="left">Connect with me:</h3>
 Whether you have a specific project in mind or are simply interested in learning more about my work, I'm always open to new opportunities and collaborations. I'm always interested in connecting with other developers and designers, so feel free to reach out to me via email or on LinkedIn.
