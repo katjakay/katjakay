@@ -1,8 +1,16 @@
 <h1 align="left">Hi 👋, I'm Katja Sabando</h1>
 <p>I'm a frontend developer based in Vienna, Austria, with a passion for designing and building beautiful, responsive web applications. With a background in graphic design, I bring a keen eye for aesthetics and a user-centered approach to my development work.
   
+I'm a frontend developer based in Vienna, Austria. I'm passionate about exploring the cutting-edge world of artificial intelligence and learning as much as I can about this exciting field.
+
+With my background in graphic design and experience as a design team lead, I bring a unique blend of creative and technical skills to my work as a developer. I'm always eager to take on new challenges and collaborate with others to create innovative solutions.
+
+One of my key strengths is my strong communication skills, which enable me to work effectively with clients, stakeholders, and team members alike. I'm also a skilled problem solver, with a keen eye for detail and a commitment to delivering high-quality work.
+
+If you're looking for a frontend developer who is passionate about AI and committed to delivering top-notch results, I'd love to connect with you. Whether you have a specific project in mind or are simply interested in learning more about my work, I'm always open to new opportunities and collaborations.
+  
 <h3 align="left">Connect with me:</h3>
-I'm always interested in connecting with other developers and designers, so feel free to reach out to me via [email](katja.sabando@gmail.com) or on [LinkedIn]([url](https://www.linkedin.com/in/katjasabando).
+I'm always interested in connecting with other developers and designers, so feel free to reach out to me via email or on LinkedIn.
 
 Thanks for checking out my profile!
 <p align="left">
