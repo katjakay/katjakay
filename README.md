@@ -7,7 +7,7 @@
   
 🤖 I'm passionate about exploring the cutting-edge world of <b>artificial intelligence</b> and learning as much as I can about this exciting field.
 
-💡 I'm currently developing with JavaScript, Typescricript, React and Next.js / Node.js
+💡 I'm currently developing with JavaScript, Typescricript, React and Next.js / Node.js & just started with Vue.js 😎
 
 
 <h3>Tech stack &  other skills</h3>
