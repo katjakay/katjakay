@@ -1,19 +1,19 @@
 <div id="header" align="center"> 
     <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="120" height="120"/></div>
    
-<h1 align="left">Hi 👋, I'm Katja Sabando</h1>
+<h1 align="left">Hello, I'm Katja Sabando</h1>
 
-👩🏻‍💻 I'm a <b>frontend developer</b> based in Vienna, Austria with a background in graphic design, I bring a keen eye for aesthetics and a user-centered approach to my development work.</p>
+I'm a <b>frontend developer</b> based in Vienna, Austria with a background in graphic design, I bring a keen eye for aesthetics and a user-centered approach to my development work.</p>
   
-🤖 I'm passionate about exploring the cutting-edge world of <b>artificial intelligence</b> and learning as much as I can about this exciting field.
+I'm passionate about exploring the cutting-edge world of <b>artificial intelligence</b> and learning as much as I can about this exciting field.
 
-💡 I'm currently developing with JavaScript, Typescricript, React and Next.js / Node.js & just started with Vue.js 😎
+ I'm currently developing with JavaScript, Typescript, React and Next.js / Node.js & Vue.js 😎
 
 
 <h3>Tech stack &  other skills</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,css,html,sass,figma,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,vue,css,html,sass,figma,tailwind&theme=light)](https://skillicons.dev)
 
 
 
