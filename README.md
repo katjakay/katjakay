@@ -1,6 +1,3 @@
-<div id="header" align="center"> 
-    <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="120" height="120"/></div>
-   
 <h1 align="left">Hello, I'm Katja Sabando</h1>
 
 I'm a <b>frontend developer</b> based in Vienna, Austria with a background in graphic design, I bring a keen eye for aesthetics and a user-centered approach to my development work.</p>
